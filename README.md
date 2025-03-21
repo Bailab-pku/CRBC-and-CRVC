@@ -30,4 +30,4 @@ The reference of virus pipline is https://github.com/snayfach/MGV
 ## Referernce  
 If you find the data and code available, please, include the following citation:  
 
-Rui Dai*, Jingying Zhang*, Fang Liu*, Haoran Xu, Jingmei Qian, Shani Cheskis, Weidong Liu, Lotte J. U. Pronk, Marnix H. Medema, Ronnie de Jonge, Corné M.J. Pieterse, Asaf Levy, Klaus Schlaeppi, Yang Bai. Crop root bacterial and viral genome resources unveil novel species and conserved patterns of root microbiomes. In preparation.
+Rui Dai#, Jingying Zhang#, Fang Liu#, Haoran Xu, Jing-Mei Qian, Shani Cheskis, Weidong Liu, Binglei Wang, Honghui Zhu, Lotte J. U. Pronk, Marnix H. Medema, Ronnie de Jonge, Corné M.J. Pieterse, Asaf Levy, Klaus Schlaeppi, Yang Bai*. Crop root bacterial and viral genomes reveal unexplored species and microbiome patterns. Cell. 2025
